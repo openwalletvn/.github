@@ -1,4 +1,4 @@
-<img width="128" height="128" alt="open-wallet" src="https://github.com/user-attachments/assets/904f46ea-99be-4383-b07f-28fce9f72229" />
+<img width="128" height="128" alt="icon" src="https://github.com/user-attachments/assets/217e2886-761b-493a-82aa-b842d3246e8a" />
 
 # Open Wallet
 
