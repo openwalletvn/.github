@@ -16,13 +16,6 @@ Tools to help Vietnamese users find and manage their bank cards.
 - **Wallet MCP** — plug Vietnamese card data into any AI tool
 - **Wallet App** — manage your cards locally *(coming soon)*
 
-## Repos
-
-| Repo | Description |
-|------|-------------|
-| [web](https://github.com/openwalletvn/web) | Main site — openwallet.vn |
-| [mcp](https://github.com/openwalletvn/mcp) | MCP server |
-
 ## Connect
 
 Join our community on [Discord](https://discord.gg/MYbkCcVmYp)
