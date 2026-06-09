@@ -1,3 +1,5 @@
+<img width="1280" height="660" alt="og" src="https://github.com/user-attachments/assets/6ab34ab3-f8eb-4a09-9fba-b40863d7afb5" />
+
 # OpenWallet Vietnam
 
 [![Vercel Deployment](https://img.shields.io/github/deployments/openwalletvn/web/Production?logo=vercel&label=vercel&color=black)](https://openwallet.vn)
