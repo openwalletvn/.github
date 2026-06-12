@@ -11,12 +11,17 @@ Tools to help Vietnamese users find and manage their bank cards.
 🌐 [openwallet.vn](https://openwallet.vn) — live now
 
 ## What we're building
+- ✅ **Card Battle** ([openwallet.vn/card-battle](https://openwallet.vn/card-battle)) Compare cards side by side
+- ✅ **Card Match** ([openwallet.vn/card-match](https://openwallet.vn/card-match)) Get card recommendations based on your spending
+- ✅ **Wallet Chat** ([openwallet.vn/chat](https://openwallet.vn/chat)) Talk to our card data with AI
+- 🚧 **Wallet App** Manage your cards locally (On hold. Ping me on Discord to request it.)
 
-- **Card Battle** — compare cards side by side
-- **Card Match** — get card recommendations based on your spending
-- **Wallet Chat** — talk to our card data with AI
-- **Wallet MCP** — plug Vietnamese card data into any AI tool
-- **Wallet App** — manage your cards locally *(coming soon)*
+For Dev 🧑🏻‍💻
+- ✅ **API Dashboard** ([dash.openwallet.vn](https://dash.openwallet.vn)) Public demo of our API dashboard
+- 🔒 **API** ([api.openwallet.vn](https://api.openwallet.vn)) API server (private for now)
+- ✅ **Component Library** ([storybook.openwallet.vn](https://storybook.openwallet.vn)) Storybook component library
+- 🔒 **Wallet MCP** ([inspector.openwallet.vn](https://inspector.openwallet.vn)) Plug Vietnamese card data into any AI tool
+
 
 ## Connect
 
