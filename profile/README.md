@@ -17,10 +17,11 @@ Tools to help Vietnamese users find and manage their bank cards.
 - 🚧 **Wallet App** Manage your cards locally (On hold. Ping me on Discord to request it.)
 
 For Dev 🧑🏻‍💻
-- ✅ **API Dashboard** ([dash.openwallet.vn](https://dash.openwallet.vn)) Public demo of our API dashboard
-- 🔒 **API** ([api.openwallet.vn](https://api.openwallet.vn)) API server (private for now)
 - ✅ **Component Library** ([storybook.openwallet.vn](https://storybook.openwallet.vn)) Storybook component library
-- 🔒 **Wallet MCP** ([inspector.openwallet.vn](https://inspector.openwallet.vn)) Plug Vietnamese card data into any AI tool
+- ✅ **API Dashboard** ([dash.openwallet.vn](https://dash.openwallet.vn)) Public demo of our API dashboard
+- ✅ **MCP Inspector** ([inspector.openwallet.vn](https://inspector.openwallet.vn)) Plug Vietnamese card data into any AI tool
+- 🔒 **OpenWallet API** ([api.openwallet.vn](https://api.openwallet.vn)) API server (private for now)
+- 🔒 **OpenWallet MCP** ([mcp.openwallet.vn](https://mcp.openwallet.vn)) Plug Vietnamese card data into any AI tool
 
 
 ## Connect
