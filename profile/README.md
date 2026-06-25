@@ -6,7 +6,7 @@
 [![MCP v0.1.0](https://img.shields.io/endpoint?url=https%3A%2F%2Fmcp.openwallet.vn%2Fbadge&cacheSeconds=60)](https://mcp.openwallet.vn/health)
 [![API v1.0.0](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.openwallet.vn%2Fbadge&cacheSeconds=60)](https://api.openwallet.vn/health)
 
-Tools to help Vietnamese users find and manage their bank cards.
+An open data AI assistant for personal finance in Vietnam.
 
 🌐 [openwallet.vn](https://openwallet.vn) — live now
 
