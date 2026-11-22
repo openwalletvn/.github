@@ -2,27 +2,39 @@
 
 # OpenWallet Vietnam
 
-[![Vercel Deployment](https://img.shields.io/github/deployments/openwalletvn/web/Production?logo=vercel&label=vercel&color=black)](https://openwallet.vn)
-[![MCP v0.1.0](https://img.shields.io/endpoint?url=https%3A%2F%2Fmcp.openwallet.vn%2Fbadge&cacheSeconds=60)](https://mcp.openwallet.vn/health)
-[![API v1.0.0](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.openwallet.vn%2Fbadge&cacheSeconds=60)](https://api.openwallet.vn/health)
+[![Website](https://img.shields.io/badge/web-openwallet.vn-EF3C23)](https://openwallet.vn)
+[![MCP](https://img.shields.io/badge/MCP-mcp.openwallet.vn-7c3aed)](https://openwallet.vn/mcp)
 
-An open data AI assistant for personal finance in Vietnam.
+The trustworthy, current source on Vietnamese bank cards, and a quick, honest answer from it.
 
-🌐 [openwallet.vn](https://openwallet.vn) — live now
+🌐 [openwallet.vn](https://openwallet.vn)
 
-## What we're building
-- ✅ **Card Battle** ([openwallet.vn/card-battle](https://openwallet.vn/card-battle)) Compare cards side by side
-- ✅ **Card Match** ([openwallet.vn/card-match](https://openwallet.vn/card-match)) Get card recommendations based on your spending
-- ✅ **Wallet Chat** ([openwallet.vn/chat](https://openwallet.vn/chat)) Talk to our card data with AI
-- 🚧 **Wallet App** Manage your cards locally (On hold. Ping me on Discord to request it.)
+## Chat with AI about cards: OpenWallet MCP
 
-For Dev 🧑🏻‍💻
-- ✅ **Component Library** ([storybook.openwallet.vn](https://storybook.openwallet.vn)) Storybook component library
-- ✅ **API Dashboard** ([dash.openwallet.vn](https://dash.openwallet.vn)) Public demo of our API dashboard
-- ✅ **MCP Inspector** ([inspector.openwallet.vn](https://inspector.openwallet.vn)) Plug Vietnamese card data into any AI tool
-- 🔒 **OpenWallet API** ([api.openwallet.vn](https://api.openwallet.vn)) API server (private for now)
-- 🔒 **OpenWallet MCP** ([mcp.openwallet.vn](https://mcp.openwallet.vn)) Plug Vietnamese card data into any AI tool
+The recommended way to ask AI about bank cards in Vietnam. Add OpenWallet to the AI you already use, then ask as usual: fees, cashback, which card fits your spending.
 
+```
+https://mcp.openwallet.vn/mcp
+```
+
+- **Claude**: Customize → Connectors → Add custom connector, paste the URL. No sign-in, no API key.
+- **ChatGPT**: Apps / Connectors (developer mode), new connector with the URL, no authentication.
+- **Claude Code**: `claude mcp add --transport http openwallet https://mcp.openwallet.vn/mcp`
+- **Cursor and other MCP clients**: a Streamable HTTP server with the URL above.
+
+Step-by-step guide: [openwallet.vn/mcp](https://openwallet.vn/mcp). Tools and examples: [mcp.openwallet.vn](https://mcp.openwallet.vn).
+
+Free and read-only. Every answer comes from OpenWallet's card data, with the date it was last checked; when the data doesn't have something, the AI says so instead of guessing.
+
+## On the web
+
+- ✅ **Card Match** ([openwallet.vn/card-match](https://openwallet.vn/card-match)): card recommendations from your spending
+- ✅ **Card Battle** ([openwallet.vn/card-battle](https://openwallet.vn/card-battle)): compare cards side by side
+- 🧪 **Owie** ([openwallet.vn/owie-chat](https://openwallet.vn/owie-chat)): try the MCP in the browser, a few questions a day, no sign-up
+
+For developers
+- ✅ **Storybook** ([storybook.openwallet.vn](https://storybook.openwallet.vn)): component library
+- ✅ **Website source** ([openwalletvn/openwallet-web](https://github.com/openwalletvn/openwallet-web))
 
 ## Connect
 
